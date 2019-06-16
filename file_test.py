@@ -4,9 +4,7 @@ endpoint = 10
 
 def loop(endpoint):
     while True:
-        if enpoint != 0:
+        if endpoint != 0:
             endpoint -= 1
         else:
             print(endpoint, ' is the limit')
-
-
